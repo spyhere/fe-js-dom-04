@@ -1,0 +1,8 @@
+{
+  "name": "js_dom_04",
+  "version": "1.0.0",
+  "author": "spyhere",
+  "scripts": {
+    "start": "cd server && node index.js"
+  }
+}

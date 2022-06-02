@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for js_dom_04",
+  "main": "index.js",
+  "keywords": [],
+  "author": "spyhere",
+  "license": "ISC"
+}
